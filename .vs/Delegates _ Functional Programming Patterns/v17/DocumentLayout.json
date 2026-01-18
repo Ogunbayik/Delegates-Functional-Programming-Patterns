@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\delegates \u0026 functional programming patterns\\assets\\scripts\\01_delegatetypes_basics\\delegatepractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\01_delegatetypes_basics\\delegatepractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\delegates \u0026 functional programming patterns\\assets\\scripts\\02_events_observerpattern\\uisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\02_events_observerpattern\\uisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\delegates \u0026 functional programming patterns\\assets\\scripts\\02_events_observerpattern\\audiosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\02_events_observerpattern\\audiosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\delegates \u0026 functional programming patterns\\assets\\scripts\\02_events_observerpattern\\achievmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\02_events_observerpattern\\achievmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\delegates \u0026 functional programming patterns\\assets\\scripts\\02_events_observerpattern\\skeletonking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\02_events_observerpattern\\skeletonking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DelegatePractice.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\01_DelegateTypes_Basics\\DelegatePractice.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\01_DelegateTypes_Basics\\DelegatePractice.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\01_DelegateTypes_Basics\\DelegatePractice.cs",
-              "RelativeToolTip": "Assets\\Scripts\\01_DelegateTypes_Basics\\DelegatePractice.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "UISystem.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\UISystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\02_Events_ObserverPattern\\UISystem.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\UISystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\02_Events_ObserverPattern\\UISystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:38:23.408Z",
+              "WhenOpened": "2026-01-18T20:15:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\AudioSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\02_Events_ObserverPattern\\AudioSystem.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\AudioSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\02_Events_ObserverPattern\\AudioSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:15:14.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AchievmentSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\AchievmentSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\02_Events_ObserverPattern\\AchievmentSystem.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\AchievmentSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\02_Events_ObserverPattern\\AchievmentSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:15:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkeletonKing.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:46:12.076Z",
               "EditorCaption": ""
             }
           ]
