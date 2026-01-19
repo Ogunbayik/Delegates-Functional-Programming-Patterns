@@ -62,9 +62,15 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\02_Events_ObserverPattern\UISystem.cs" />
     <Compile Include="Assets\Scripts\02_Events_ObserverPattern\AchievmentSystem.cs" />
+    <Compile Include="Assets\Scripts\03_Func_StatSystem\PlayerDamageSystem.cs" />
+    <Compile Include="Assets\Scripts\Challenges\03\DamageCalculator.cs" />
     <Compile Include="Assets\Scripts\02_Events_ObserverPattern\SkeletonKing.cs" />
+    <Compile Include="Assets\Scripts\Challenges\03\MarketSystem.cs" />
+    <Compile Include="Assets\Scripts\Challenges\01\QuestManager.cs" />
     <Compile Include="Assets\Scripts\01_DelegateTypes_Basics\DelegatePractice.cs" />
+    <Compile Include="Assets\Scripts\Challenges\02\Soldier.cs" />
     <Compile Include="Assets\Scripts\Const.cs" />
+    <Compile Include="Assets\Scripts\Challenges\02\Medic.cs" />
     <Compile Include="Assets\Scripts\02_Events_ObserverPattern\AudioSystem.cs" />
     <Compile Include="Assets\Scripts\01_DelegateTypes_Basics\Item.cs" />
   </ItemGroup>

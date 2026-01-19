@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\assets\\scripts\\02_events_observerpattern\\skeletonking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\02_events_observerpattern\\skeletonking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\delegates \u0026 functional programming patterns\\assets\\scripts\\challenges\\03\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968037B8-4A48-D27D-5CA5-23A1F64BD8C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\challenges\\03\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SkeletonKing.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
-              "RelativeToolTip": "Assets\\Scripts\\02_Events_ObserverPattern\\SkeletonKing.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Title": "DamageCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\Challenges\\03\\DamageCalculator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Challenges\\03\\DamageCalculator.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Delegates \u0026 Functional Programming Patterns\\Assets\\Scripts\\Challenges\\03\\DamageCalculator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Challenges\\03\\DamageCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T19:46:12.076Z",
+              "WhenOpened": "2026-01-19T13:23:49.315Z",
               "EditorCaption": ""
             }
           ]
